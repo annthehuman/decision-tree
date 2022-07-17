@@ -1,1 +1,1 @@
-# desision-tree-classifier with sklearn
+# decision-tree-classifier with sklearn
